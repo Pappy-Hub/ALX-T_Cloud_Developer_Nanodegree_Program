@@ -12,7 +12,7 @@ __Technologies__
 Firstly, create an S3 bucket, configure the bucket for website hosting, and secure it using IAM policies.
 Next, upload the website files to your bucket and speed up content delivery using AWS’s content distribution network service, CloudFront.
 Lastly, access your website in a browser using the unique S3 endpoint.
----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
                                                                                                                     
                                                                                                                                       
  All of the following are deployed in AWS console
@@ -21,6 +21,3 @@ Lastly, access your website in a browser using the unique S3 endpoint.
 |---------------------- | -------------------------------------------------------------------------------------------------------------------------------------
 |Deploy Static website on AWS: Link1: | http://my-rule2-bucket.s3-website.us-east-2.amazonaws.com/ 
 |Deploy Static website on AWS: Link2  | https://dtc42uawvptv6.cloudfront.net/ 
-
-
-
