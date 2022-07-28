@@ -12,7 +12,7 @@ __Technologies__
 Firstly, create an S3 bucket, configure the bucket for website hosting, and secure it using IAM policies.
 Next, upload the website files to your bucket and speed up content delivery using AWS’s content distribution network service, CloudFront.
 Lastly, access your website in a browser using the unique S3 endpoint.
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                                                     
                                                                                                                                       
  All of the following are deployed in AWS console
