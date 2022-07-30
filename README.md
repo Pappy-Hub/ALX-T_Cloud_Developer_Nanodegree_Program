@@ -19,5 +19,5 @@ Lastly, access your website in a browser using the unique S3 endpoint.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 |__Description__	          |    __Links__ |
 |---------------------- | -------------------------------------------------------------------------------------------------------------------------------------
-|Deploy Static website on AWS: Link1: | http://my-rule2-bucket.s3-website.us-east-2.amazonaws.com/ 
-|Deploy Static website on AWS: Link2  | https://dtc42uawvptv6.cloudfront.net/ 
+|Distribution Domain  Name URL | http://my-rule2-bucket.s3-website.us-east-2.amazonaws.com/ 
+|Bucket Website Endpoint URL | https://dtc42uawvptv6.cloudfront.net/ 
