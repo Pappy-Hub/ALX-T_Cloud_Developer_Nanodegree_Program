@@ -1,6 +1,6 @@
 __ALX-T UDACITY CLOUD DEVELOPER__
 --------------------------------------------------------------------------------------------------------------------------------------------------------------- 
-Project done during ALX-T Cloud Developer Nanodegree Program. It aims to learn about Cloud Computing
+Project done during ALX-T AWS Cloud Developer Nanodegree Program. It aims to learn about Cloud Computing
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 __Technologies__
